@@ -1,0 +1,21 @@
+a = int(input("enter your first number"))
+b = int(input("enter your second number"))
+c = int(input("enter your third number"))
+d = int(input("enter your fourth number"))
+if ( a>d):
+    fi=a
+else:
+    f1=d
+
+if (b>c):
+    f2=b
+    
+else:
+    f2=c  
+    
+if( f1>f2):
+    print(str(f1)+ " is greatest")
+    
+    
+else:
+    print( str(f2)+ " is greatest")
