@@ -1,0 +1,6 @@
+def ferh(cel):
+    return (cel *(9/5)) + 32
+
+c=40
+f=ferh(c)
+print("fernite trmp is"+str(f))
