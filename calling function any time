@@ -1,0 +1,14 @@
+def kela():
+    print("gand gegsb")
+kela()  
+
+x=4
+if(x>2):
+    print("this is true")
+else:
+    print("not true")
+kela()
+
+for i in range(5):
+    print(i) 
+    kela()
